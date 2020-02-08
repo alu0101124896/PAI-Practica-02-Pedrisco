@@ -7,11 +7,11 @@ Se ha comprobado experimentalmente para números naturales muy grandes que si a 
 todos los números naturales acaban tomando el valor 1 después de un cierto número de iteraciones del proceso. Por ejemplo, si tomamos N = 5:
 N
 
-N~0~ = 5  N1 = 3 * 5 + 1 = 16
-N~0~ = 16 N2 = 16 / 2 = 8
-N2 = 8 N3 = 8 / 2 = 4
-N3 = 4 N4 = 4 / 2 = 2
-N4 = 2 N5 = 2 / 2 = 1
+N~0~ = 5  N~1~ = 3 * 5 + 1 = 16
+N~1~ = 16 N~2~ = 16 / 2 = 8
+N~2~ = 8 N~3~ = 8 / 2 = 4
+N~3~ = 4 N~4~ = 4 / 2 = 2
+N~4~ = 2 N~5~ = 2 / 2 = 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQxNjg5NCw0MjYzNjAwNTFdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzM3NzU0Myw0MjYzNjAwNTFdfQ==
 -->
