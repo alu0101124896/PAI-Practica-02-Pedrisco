@@ -17,8 +17,8 @@ Se desconoce si esta es una propiedad intrínseca a los números naturales o bie
 La práctica consiste en diseñar un programa en JavaScript (`pedrisco.js`) que tome como entrada dos números N y M (N $\lt$ M) e imprima en pantalla el número de iteraciones que se realiza el proceso para todos los números  N $\leq$ `n`  $\leq$ M.
 El programa debe tomar los valores de entrada por línea de comandos:
 
-    
-
+    node pedrisco.js N M
+El programa calculará asimismo los números `p` y `q` (N $\leq$ `p`, `q`  $\leq$ M)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjYyNzg4Niw0MjYzNjAwNTFdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzA2ODU2MCw0MjYzNjAwNTFdfQ==
 -->
