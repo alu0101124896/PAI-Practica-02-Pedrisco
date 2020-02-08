@@ -1,7 +1,7 @@
+# Práctica 2. Números 'Pedrisco'
 
 
-
-# Práctica 1. El entorno de desarrollo de "Programación de Aplicaciones Interactivas.
+### Factor de ponderación: 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODA2NTU3XX0=
+eyJoaXN0b3J5IjpbNzA4MTMxMzQzXX0=
 -->
