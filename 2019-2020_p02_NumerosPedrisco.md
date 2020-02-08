@@ -14,9 +14,11 @@ todos los números naturales acaban tomando el valor 1 después de un cierto nú
 `n`~5~ = 2 / 2 = 1
 Se observa  que para `n`=5, el proceso se realiza 5 veces antes de su finalización (el último número acaba siendo 1).
 Se desconoce si esta es una propiedad intrínseca a los números naturales o bien si se trata de una particularidad para la que aún no se ha encontrado ningún contraejemplo.
-La práctica consiste en diseñar un programa en JavaScript que tome como entrada dos números N y M (N $\lt$ M) e imprima en pantalla el número de iteraciones que se realiza el proceso para todos los números  N $\leq$ `n`  $\leq$ 
+La práctica consiste en diseñar un programa en JavaScript (`pedrisco.js`) que tome como entrada dos números N y M (N $\lt$ M) e imprima en pantalla el número de iteraciones que se realiza el proceso para todos los números  N $\leq$ `n`  $\leq$ M.
+El programa debe tomar los valores de entrada por línea de comandos:
 
-un número M y realice este proceso para todos los números naturales N en el rango 1 <= N <= M.
+    
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTUyMDgxOCw0MjYzNjAwNTFdfQ==
+eyJoaXN0b3J5IjpbMTM0MjYyNzg4Niw0MjYzNjAwNTFdfQ==
 -->
