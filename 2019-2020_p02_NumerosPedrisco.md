@@ -14,14 +14,17 @@ todos los números naturales acaban tomando el valor 1 después de un cierto nú
 `n`~5~ = 2 / 2 = 1
 Se observa  que para `n`=5, el proceso *pedrisco*se realiza 5 veces antes de su finalización (el último número acaba siendo 1).
 Se desconoce si esta es una propiedad intrínseca a los números naturales o bien si se trata de una particularidad para la que aún no se ha encontrado ningún contraejemplo.
-La práctica consiste en diseñar un programa en JavaScript (`pedrisco.js`) que tome como entrada dos números `N` y `M` (`N` $\lt$ `M`) e imprima en pantalla el número de iteraciones que se realiza el proceso para todos los números  `N` $\leq$ `n`  $\leq$ M.
+La práctica consiste en diseñar un programa en JavaScript (`pedrisco.js`) que tome como entrada dos números `N` y `M` (`N` $\lt$ `M`) e imprima en pantalla el número de iteraciones que se realiza el proceso para todos los números  `N` $\leq$ `n`  $\leq$ `M`.
 El programa debe tomar los valores de entrada por línea de comandos:
 
     node pedrisco.js N M
 
-E imprimirá 
+E imprimirá `N-M+1` líneas con el formato:
+
+    <número> - <número de interaciones>
+
 El programa calculará asimismo los números `p` y `q` (N $\leq$ `p`, `q`  $\leq$ M) que requieren el máximo y mínimo número de iteraciones del proceso 'pedrisco' en ese rango.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNzQ1MDQsOTkzODQ3ODMxLDQyNjM2MD
-A1MV19
+eyJoaXN0b3J5IjpbLTEyNzAwMDMxNTcsOTkzODQ3ODMxLDQyNj
+M2MDA1MV19
 -->
