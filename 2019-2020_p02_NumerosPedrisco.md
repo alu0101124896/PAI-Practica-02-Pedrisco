@@ -35,5 +35,10 @@ El programa calculará asimismo los números `p` y `q` (N <= `p`, `q` <=$ M) que
 
 Se requiere que el código esté escrito siguiendo los criterios especificados en la [Google JavaScript Style Guide][1]. Estudie ese documento y ponga en práctica todo lo que él se indica.
 
-[1]: https://google.github.io/styleguide/jsguide.html "Google JavaScript Style Guide
-"
+Estudie [esta referencia][2] para aprender a trabajar con parámetros pasados en línea de comandos a un programa ejecutado con Node.js.
+
+Este [código de ejemplo][3] (ejecútelo en la consola de Node, no en el REPL.it) puede servirle de ayuda inicialmente.
+
+[1]: https://google.github.io/styleguide/jsguide.html "Google JavaScript Style Guide"
+[2]: https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/ "How to parse command line arguments"
+[3]: https://repl.it/@fsande/commandLineArguments "Command line arguments code example"
