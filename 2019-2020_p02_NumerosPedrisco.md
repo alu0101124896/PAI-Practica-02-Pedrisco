@@ -33,7 +33,9 @@ E imprimirá `N-M+1` líneas con el formato:
 
 El programa calculará asimismo los números `p` y `q` (N <= `p`, `q` <=$ M) que requieren el máximo y mínimo número de iteraciones del proceso 'pedrisco' en ese rango.
 
-Se requiere que el código esté escrito siguiendo los criterios especificados en la [Google JavaScript Style Guide][1]. Estudie ese documento y ponga en práctica todo lo que él se indica.
+Se requiere que el código esté escrito siguiendo los criterios especificados en la [Google JavaScript Style Guide][1].
+Estudie ese documento y ponga en práctica todo lo que él se indica.
+Esa guía de estilo es la que se utilizará en la asignatura y la conformidad de todos los programas presentados como prácticas es un requisito en la evaluación de los mismos.
 
 Estudie [esta referencia][2] para aprender a trabajar con parámetros pasados en línea de comandos a un programa ejecutado con Node.js.
 
