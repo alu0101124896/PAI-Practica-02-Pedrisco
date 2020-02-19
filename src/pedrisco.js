@@ -1,3 +1,4 @@
+//Funcion que calcula el numero de iteraciones necesarias para que un numero llegue a ser 1 tras una serie de operaciones
 if (process.argv.length !== 4 || isNaN(process.argv[2]) || isNaN(process.argv[3]) || Number(process.argv[2]) >= Number(process.argv[3])) {
   console.log('Error: Ejecute este programa aportando como argumentos en la linea de comandos dos numeros enteros, siendo el primero menor que el segundo.');
 } else {
