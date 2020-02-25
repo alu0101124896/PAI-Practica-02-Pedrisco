@@ -44,5 +44,5 @@ function main() {
   }
 }
 
-main()
+main();
 

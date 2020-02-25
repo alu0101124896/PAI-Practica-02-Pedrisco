@@ -37,8 +37,8 @@ function main() {
       }
       candidate += 1;
     }
-    console.log("Los " + totalNumbs + " primeros numeros primos de mersenne son: " + mersNumbs)
+    console.log("Los " + totalNumbs + " primeros numeros primos de mersenne son: " + mersNumbs);
   }
 }
 
-main()
+main();
